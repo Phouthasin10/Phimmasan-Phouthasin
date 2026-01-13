@@ -1,8 +1,8 @@
 # Giới thiệu
 
 ## Thông tin sinh viên
-- Họ tên: Phoudsavanh Kongmany  
-- Mã SV: 23att156 Lớp A1CNTTK10  
+- Họ tên: Phimmasan Phouthasin  
+- Mã SV: 23att155 Lớp A1CNTTK10  
 - Môn học: Xử lý dữ liệu lớn (Big Data)
 
 ## Thông tin liên hệ
