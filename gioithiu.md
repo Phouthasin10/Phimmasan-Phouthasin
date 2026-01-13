@@ -6,10 +6,10 @@
 - Môn học: Xử lý dữ liệu lớn (Big Data)
 
 ## Thông tin liên hệ
-- 📧 Email: [phoudsavanhkongmany1@gmail.com](mailto:phoudsavanhkongmany1@gmail.com)
+- 📧 Email: [filmfgztv@gmail.com](mailto:filmfgztv@gmail.com)
 - 🐙 GitHub: https://github.com/phoudsavanhKongmany/hoc-big-data.git
--  📧 Accout trello: [phoudsavanhkongmany1@gmail.com](mailto:phoudsavanhkongmany1@gmail.com)
-- 📋 Trello: [My Big Data Board](https://trello.com/b/y5qkq88Y/my-trello-board)
+-  📧 Accout trello: [filmfgztv@gmail.com](mailto:filmfgztv@gmail.com)
+- 📋 Trello: [My Big Data Board](https://trello.com/u/31phimmasanphouthasin/boards)
 
 
 ## Mục đích repository
