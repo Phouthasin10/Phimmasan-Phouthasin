@@ -7,7 +7,7 @@
 
 ## Thông tin liên hệ
 - 📧 Email: [filmfgztv@gmail.com](mailto:filmfgztv@gmail.com)
-- 🐙 GitHub: https://github.com/phoudsavanhKongmany/hoc-big-data.git
+- 🐙 GitHub: https://github.com/Phouthasin10/Phimmasan-Phouthasin.git
 -  📧 Accout trello: [filmfgztv@gmail.com](mailto:filmfgztv@gmail.com)
 - 📋 Trello: [My Big Data Board](https://trello.com/u/31phimmasanphouthasin/boards)
 
